@@ -4,6 +4,7 @@ import os
 import time
 import threading
 import tkinter as tk
+import random
 
 def record(self):
     audio = pyaudio.PyAudio()
